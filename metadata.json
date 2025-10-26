@@ -1,0 +1,5 @@
+{
+  "name": "Sora2 시네마틱 프롬프트",
+  "description": "Select a movie and its visual characteristics, like color palettes and camera angles, to generate a unique prompt for AI image creation. This app helps you craft the perfect visual style inspired by your favorite films.",
+  "requestFramePermissions": []
+}
